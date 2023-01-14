@@ -1,2 +1,3 @@
 # weatherApp
-A web-based Weather Application that enables users to know the weather conditions of different countries real time. 
+
+A web-based Weather Application focused primarily on tempersture of cities and countries real time.
